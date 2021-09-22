@@ -1,0 +1,301 @@
+<background>
+  <starttime>
+    <year>2021</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>3</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-2.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-2.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-3.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-3.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-4.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-4.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-5.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-5.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-6.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-6.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-7.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-7.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-8.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-8.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-9.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-9.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-10.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-10.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-11.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-11.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-12.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-12.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-13.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-13.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-14.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-14.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-15.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-15.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-16.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-16.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-17.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-17.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-18.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-18.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-19.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-19.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-20.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-20.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-21.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-21.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-22.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-22.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-23.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-23.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-24.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-24.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-25.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-25.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-26.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-26.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-27.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-27.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-28.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-28.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-29.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-29.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-30.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-30.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-31.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-31.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-32.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-32.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-33.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-33.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-34.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-34.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-35.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-35.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-36.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-36.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-37.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-37.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-38.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-38.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-39.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-39.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-40.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-40.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-41.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-41.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-42.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-42.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-43.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-43.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-44.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-44.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-45.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-45.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-46.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-46.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-47.png</to>
+</transition>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-47.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone-48.png</to>
+</transition>
+
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/timezone-timed/timezone-48.png</from>
+<to>/usr/share/backgrounds/gnome/timezone-timed/timezone.png</to>
+</transition>
+
+</background>
