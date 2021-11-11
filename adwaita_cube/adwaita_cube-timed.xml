@@ -1,0 +1,52 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>5</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+<!-- This animation will start at 5 AM. -->
+
+<!-- We start with sunrise at 5 AM. It will remain up for 5 hour. -->
+<static>
+<duration>18000.0</duration>
+<file>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube.jpg</file>
+</static>
+
+<!-- Sunrise starts to transition to day at 10 AM. The transition lasts for 2 hours, ending at 12 PM. -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube.jpg</from>
+<to>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-2.jpg</to>
+</transition>
+
+<!-- Day picture from 12 PM for 8 hours -->
+<static>
+<duration>28800.0</duration>
+<file>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-2.jpg</file>
+</static>
+
+<!-- Day transitions at 8 PM for 2 hours -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-2.jpg</from>
+<to>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-3.jpg</to>
+</transition>
+
+<!-- Night picture from 10 PM for 6 hours -->
+<static>
+<duration>21600.0</duration>
+<file>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-3.jpg</file>
+</static>
+
+<!-- Night transitions at 4 AM for 1 hour -->
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube-3.jpg</from>
+<to>/usr/share/backgrounds/gnome/adwaita_cube-timed/adwaita_cube.jpg</to>
+</transition>
+
+</background>
